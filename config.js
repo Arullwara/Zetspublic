@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285822347348']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
+global.ownername = 'Arull'
+global.botname = 'ArullBotz'
+global.packname = '© ArullBotz - MULTI DEVICE'
+global.gc = 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
+global.author = '@Arull.jpeg\n@Arull.xzy'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
@@ -27,7 +27,7 @@ global.mess = {
     success: 'Berhasil',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus Owner ArullBot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
